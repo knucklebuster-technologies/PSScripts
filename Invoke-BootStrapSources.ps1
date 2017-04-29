@@ -1,0 +1,1 @@
+﻿\\192.168.10.13\Automation\BootStraps\Sources\Automation.Bootstrap.Load-Source.ps1 -Component Porchlight -Release 7.0 -TestLevel svt -LogDirectory C:\Testing\Artifacts\Logs
